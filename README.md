@@ -23,6 +23,16 @@ Automated version of the above using Terraform. Deploys secure Azure infrastruct
 ### 🔄 [IAM Lifecycle Simulation](https://github.com/karlomodt/iam-lifecycle-sim)
 Models identity provisioning, access assignment, and deprovisioning for secure systems. Focused on audit trails and access governance logic.
 
+### 📁 Additional Projects Available
+Other projects include:
+- AWS Security Automation Labs
+- PCI-DSS Compliance Infrastructure Design
+- Multi-Cloud Honeypot Simulation
+- Infrastructure Teardown Scripts and Automation
+
+👉 Explore all repositories: [github.com/karlomodt?tab=repositories](https://github.com/komodt01tab=repositories)
+
+
 ---
 
 ## 🧠 Tools & Focus Areas

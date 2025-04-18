@@ -30,7 +30,7 @@ Other projects include:
 - Multi-Cloud Honeypot Simulation
 - Infrastructure Teardown Scripts and Automation
 
-👉 Explore all repositories: [github.com/komodt01?tab=repositories](https://github.com/komodt01tab=repositories)
+👉 Explore all repositories: https://github.com/komodt01?tab=repositories
 
 
 ---

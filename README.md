@@ -45,7 +45,7 @@ Other projects include:
 - **Soft Skills:** Business alignment, stakeholder collaboration, secure-by-design thinking
 
 ---
-
+Interested in collaborating on cloud security projects? Reach out via LinkedIn or email me below
 📫 [LinkedIn](https://linkedin.com/in/karlomodt) | ✉️ k_omodt@msn.com
 
 ---

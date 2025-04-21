@@ -1,5 +1,7 @@
 I’m a Cloud Security Architect (transitioning from IT Business Analyst) with 10+ years of experience aligning technology with business needs. I’m a Certified Information Systems Security Professional (CISSP) and have successfully architected FedRAMP-compliant solutions for multi-cloud environments. My focus is on secure design, infrastructure-as-code, and cloud identity strategies across AWS, Azure, and GCP
 
+**Open to new opportunities** — especially in cloud security architecture, architecture, and compliance.
+
 ---
 
 ## 🔐 What I Do
